@@ -1,0 +1,38 @@
+body{
+    background: url(images/header/bg_main.gif)center;
+    
+
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+}
+
+
+.con{
+    width: 1020px;
+    margin: 0 auto;
+    padding: 0;
+}
+.two{
+    height: 100px;
+
+    padding-top: 10px;
+   
+}
+.inp-in{
+    padding-top: 20px;
+}
+.nav{
+    background-color: rgb(216, 213, 213);
+}
+:hover.nav-link{
+    background-color: red;
+}
+.uddok{
+    margin-left: 10px;
+}
